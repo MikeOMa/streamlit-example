@@ -1,5 +1,5 @@
 numpy==1.19.1
 streamlit
 streamlit-folium
-cartopy==0.18.0
+cartopy==0.19.0
 driftmlp==1.2
