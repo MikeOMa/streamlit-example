@@ -1,9 +1,9 @@
-name: drift-mlp-app
-
+name: base 
 channels:
   - conda-forge
 dependencies:
   - python=3.9
   - pip
+  - cartopy==0.20.0
   - pip:
     - -r requirements.txt
